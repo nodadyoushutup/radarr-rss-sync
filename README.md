@@ -1,7 +1,7 @@
 
 # Radarr RSS Sync
 
-This project provides RSS synchronization with Radarr using the `pyarr` library. The application is designed to run as a Docker container and can be configured to perform RSS sync at a specified interval.
+This project provides RSS synchronization for Radarr. The application is designed to run as a Docker container and can be configured to perform RSS sync at a specified interval.
 
 ## Prerequisites
 
