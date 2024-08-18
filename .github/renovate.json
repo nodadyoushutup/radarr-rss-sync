@@ -7,5 +7,6 @@
     "branchPrefix": "[DEP] ",
     "commitMessagePrefix": "[DEP] ",
     "assignees": ["nodadyoushutup"],
-    "reviewers": ["nodadyoushutup"]
+    "reviewers": ["nodadyoushutup"],
+    "labels": ["dependency"]
   }
