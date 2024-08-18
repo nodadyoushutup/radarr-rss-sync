@@ -28,7 +28,7 @@ You can use Docker Compose to manage the container. Here's an example `docker-co
 ```yaml
 services:
   radarr-rss-sync:
-    image: radarr-rss-sync:latest
+    image: ghcr.io/nodadyoushutup/radarr-rss-sync:latest
     environment:
       - HOST_URL=http://192.168.1.100:7878
       - API_KEY=1234567890abcdef1234567890abcdef
