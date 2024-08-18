@@ -1,0 +1,3 @@
+pyarr==5.2.0
+vulcan-utils==1.12.4
+redis==5.0.8
